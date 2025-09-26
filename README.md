@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Happy Birthday Sister 🎂</title>
+  <title>Happy Birthday jayshree🎂</title>
   <style>
     body {
       margin: 0;
@@ -66,7 +66,7 @@
   </style>
 </head>
 <body>
-  <h1>🎉 Happy Birthday, Sister! 🎉</h1>
+  <h1>🎉 Happy Birthday, jayshree! 🎉</h1>
   <div class="cake">🎂</div>
   <p>Dear Sister, wishing you endless joy, love, and laughter on your special day 💖💐</p>
 
@@ -75,4 +75,7 @@
     <div class="mySlides"><img src="photo1.jpg" alt="Sister Photo 1"></div>
     <div class="mySlides"><img src="photo2.jpg" alt="Sister Photo 2"></div>
     <div class="mySlides"><img src="photo3.jpg" alt="Sister Photo 3"></div>
+    <div class="mySlides"><img src="photo4.jpg" alt="Sister Photo 3"></div>
+    <div class="mySlides"><img src="photo5.jpg" alt="Sister Photo 3"></div>
+    <div class="mySlides"><img src="photo6.jpg" alt="Sister Photo 3"></div>
   </div>
